@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images of Stands</title>
+</head>
+
+<body>
+    <h1><b><u>Stands</u></b></h1>
+    <ul>
+        <h2> <img height="250px" src="img.png" alt="bites the dust"><br>
+            <li><u><a target="_blank" href="https://jojowiki.com/Bites_the_Dust">Bites The Dust</a></u></br> </li>
+            <img height="250px" src="goldenwind.jpg" alt="golden wind">
+            <li><u> <a target="_blank" href="https://jojowiki.com/Golden Wind">Golden Wind</a> </u></li>
+            <img height="250px" src="image.png" alt="jojolion"><br>
+            <li><u><a target="_blank" href="https://jojowiki.com/Jojolion">Jojolion </a></u></br>
+                <img height="250px" src="stoneocean.jpg" alt="stone ocean"><br>
+            <li><u><a target="_blank" href="https://jojowiki.com/Stone Ocean">Stone Ocean</a> </u></br>
+                <img height="250px" src="starplatinum.jpg" alt="starplatinum"><br>
+            <li><u><a target="_blank" href="https://jojowiki.com/Star Platinum">Starplatinum </a></u></br>
+
+        </h2>
+    </ul>
+</body>
+
+</html>
